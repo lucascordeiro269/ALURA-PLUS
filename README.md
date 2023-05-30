@@ -1,2 +1,1 @@
-# ALURA-PLUS
-aluraplus
+# alura-plus
